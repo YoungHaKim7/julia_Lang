@@ -1,3 +1,17 @@
+# julia compile python 와 비슷하다
+
+```
+
+PS D:\Hello_Julia> julia .\hello.jl
+
+hello world
+
+```
+
+<br>
+
+<hr>
+
 # julia_Lang
 
 https://julialang.org/
