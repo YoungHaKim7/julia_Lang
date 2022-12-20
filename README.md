@@ -1,3 +1,11 @@
+# Windows OS choco Install
+
+https://community.chocolatey.org/packages/Julia
+
+<br>
+
+<hr>
+
 # julia compile python 와 비슷하다
 
 ```
